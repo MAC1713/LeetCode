@@ -1,4 +1,4 @@
-package Thread;
+package Interview.src.Thread;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;

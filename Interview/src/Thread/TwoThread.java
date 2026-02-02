@@ -1,4 +1,4 @@
-package Thread;
+package Interview.src.Thread;
 
 public class TwoThread {
 
