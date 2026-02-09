@@ -2,9 +2,9 @@ package Linklist;
 
 public class ListNode {
     public Integer val;
-    public Linklist.ListNode next;
-    public ListNode(int a) {
-        this.val = a;
+    public ListNode next;
+    public ListNode(int val) {
+        this.val = val;
     }
 }
 

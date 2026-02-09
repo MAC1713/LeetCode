@@ -1,4 +1,4 @@
-package Interview.src.ThreadPool;
+package ThreadPool;
 
 import java.util.concurrent.*;
 
